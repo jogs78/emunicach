@@ -1,0 +1,1 @@
+[32mLaravel Framework[39m version [33m4.2.17[39m
